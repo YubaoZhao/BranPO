@@ -1,0 +1,30 @@
+{
+  "qwen2.5-7b-instruct-sft": {
+    "file_name": "qwen2.5-7b-instruct-sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+},
+  "qwen3-4b-instruct-sft": {
+    "file_name": "qwen3-4b-instruct-sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+}
+}
