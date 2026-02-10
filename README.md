@@ -4,6 +4,10 @@
 # BranPO: Training Multi-Turn Search Agent via Contrastive Branch Sampling
 
 </div>
+<div align="center"> 
+
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b5212f.svg?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.03719)
+</div>
 
 ## 🚀 Get Started
 
@@ -92,3 +96,12 @@ To evaluate your model, run `run_eval.sh` to test against the local retrieval se
 ## 🤝 Acknowledgements
 
 This codebase is built upon [rLLM](https://github.com/rllm-org/rllm) and [veRL](https://github.com/verl-project/verl). The search workflow and training data are based on [Search-R1](https://github.com/PeterGriffinJin/Search-R1) and [ASearcher](https://github.com/inclusionAI/ASearcher). We are sincerely grateful to these projects for their foundational contributions to the field!
+## Citation
+```
+@article{zhao2026branpo,
+  title={Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling},
+  author={Zhao, Yubao and Huang, Weiquan and Wang, Sudong and Zhao, Ruochen and Chen, Chen and Shu, Yao and Qin, Chengwei},
+  journal={arXiv preprint arXiv:2602.03719},
+  year={2026}
+}
+```
