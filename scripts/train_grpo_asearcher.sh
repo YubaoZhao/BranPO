@@ -4,7 +4,6 @@ num_gpu=8
 
 cd $RLLM_HOME
 
-
 conda activate retriever
 python agent/search/retrieval/retrieval_server_asearcher.py --faiss_gpu > server_grpo.log &
 PID=$!
